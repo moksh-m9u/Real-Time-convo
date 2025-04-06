@@ -1,0 +1,11 @@
+groq
+python-dotenv
+cohere
+rich
+selenium
+webdriver-manager
+mtranslate
+pygame
+edge-tts
+PyQt5
+google-speech
