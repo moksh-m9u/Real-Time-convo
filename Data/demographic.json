@@ -1,0 +1,20 @@
+{
+    "symptoms": [
+        "Left-sided chest pain (Left-sided thoracic pain)",
+        "Pinprick pain (Sharp, localized pain)",
+        "Health concerns"
+    ],
+    "diagnosis": "Common Viral Infection",
+    "recommendations": [
+        "Over-the-Counter Medications:",
+        "Acetaminophen: 325-1000mg every 4-6 hours as needed for pain and fever.",
+        "Ibuprofen: 200-400mg every 4-6 hours as needed for pain and fever."
+    ],
+    "avoid": [
+        "Avoid strenuous activities until symptoms improve",
+        "Avoid contact with others to prevent spreading the infection",
+        "Avoid alcohol and smoking"
+    ],
+    "follow_up": "If symptoms persist for more than a week or worsen significantly, consult a healthcare provider.",
+    "recommended_specialist_type": "Cardiologist"
+}

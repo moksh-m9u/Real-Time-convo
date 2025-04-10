@@ -5,6 +5,22 @@
     },
     {
         "role": "assistant",
-        "content": "Hello Moksh, I'm DocBot, your AI doctor. I've reviewed our previous conversation, and it appears this is our first interaction. I don't have any prior knowledge or chat history with you, so let's start fresh. \n\nTo begin, could you please tell me what brings you here today? What are the health concerns that you're experiencing, and how long have you been noticing these symptoms? Also, have you recently traveled or been exposed to anyone who's been unwell?"
+        "content": "Hello Moksh, I am you AI based doctor, i will give you a diagnosis in maximum of 3 coversation in which i will be asking your symptoms and things you have noticed. i will provide u a diagnosis along with some basic medication whcih you should be looking forward to take"
+    },
+    {
+        "role": "user",
+        "content": "Hi doctor i am having a pain in my chest."
+    },
+    {
+        "role": "assistant",
+        "content": "Moksh, chest pain can be caused by a variety of factors, some of which can be serious. I want to ask you a few questions to help narrow down the possible causes. Can you tell me more about the pain you're experiencing? Is it a sharp pain, a dull ache, or a feeling of pressure in your chest? Also, where exactly is the pain located, is it in the center of your chest or more to one side? And how long have you been experiencing this pain?"
+    },
+    {
+        "role": "user",
+        "content": "The pain in my chest slightly on the left side i am experiencing with a pin-like sensation in the last few minutes."
+    },
+    {
+        "role": "assistant",
+        "content": "Moksh, a pin-like sensation on the left side of your chest can be a cause for concern. I want to ask you a few more questions to help determine what might be going on. Are you experiencing any other symptoms along with the chest pain, such as shortness of breath, dizziness, or nausea? Have you recently engaged in any strenuous physical activity or exertion that might have triggered the pain? Also, do you have any pre-existing medical conditions, such as high blood pressure, heart disease, or asthma, that could be contributing to the pain?"
     }
 ]

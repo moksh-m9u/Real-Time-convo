@@ -9,6 +9,10 @@ from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
 
+# Get HuggingFace token from env
+HF_TOKEN = os.environ.get("HUGGINGFACE_API_TOKEN")
+HUGGINGFACE_REPO_ID = os.environ.get("HUGGINGFACE_REPO_ID")
+
 # Step 1: Setup LLM (Mistral with Hugging
 def load_llm(huggingface_repo_id):
     llm=HuggingFaceEndpoint(
@@ -49,16 +53,21 @@ qa_chain=RetrievalQA.from_chain_type(
     chain_type_kwargs={'prompt':set_custom_prompt(CUSTOM_PROMPT_TEMPLATE)}
 )
 
-for i in range(10):
-    user_query=input("Write Query Here: ")
-    response=qa_chain.invoke({'query': user_query})
-
-    print("RESULT: ", response["result"])
-    print("SOURCE DOCUMENTS: ", response["source_documents"]) # Uncomment to see the source documents
-
-if __name__ == "__main__":
-# Now invoke with a single query
-    def Rag(query):
+def Rag(query):
+    """Function to query the RAG system"""
+    try:
         response=qa_chain.invoke({'query': query})
         return response["result"]
+    except Exception as e:
+        print(f"Error in RAG function: {e}")
+        return "Unable to retrieve medical information at this time."
+
+if __name__ == "__main__":
+    # Interactive testing mode
+    for i in range(10):
+        user_query=input("Write Query Here: ")
+        response=qa_chain.invoke({'query': user_query})
+
+        print("RESULT: ", response["result"])
+        print("SOURCE DOCUMENTS: ", response["source_documents"])  # Show source documents
 

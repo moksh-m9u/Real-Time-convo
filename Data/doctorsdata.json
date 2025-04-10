@@ -1,0 +1,3378 @@
+[{
+  "_id": {
+    "$oid": "67f2083f09495e38b023ccfa"
+  },
+  "specialization": "Cardiologist",
+  "experience": 15,
+  "qualifications": [
+    "MBBS",
+    "MD - Cardiology",
+    "DM - Cardiology"
+  ],
+  "licenseNumber": "MCI-12345",
+  "officeLocation": {
+    "address": "123 Heart Care Center, Connaught Place",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110001"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543210",
+  "bio": "Experienced cardiologist specializing in interventional cardiology and heart disease prevention.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1500,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2000,
+      "_id": {
+        "$oid": "67f2083f09495e38b023ccfb"
+      }
+    },
+    {
+      "degree": "MD - Cardiology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023ccfc"
+      }
+    },
+    {
+      "degree": "DM - Cardiology",
+      "institution": "SGPGI Lucknow",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023ccfd"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Board Certified Cardiologist",
+      "issuingOrganization": "Medical Council of India",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023ccfe"
+      }
+    },
+    {
+      "name": "Advanced Cardiac Life Support",
+      "issuingOrganization": "American Heart Association",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023ccff"
+      }
+    }
+  ],
+  "name": "Dr. Rajesh Kumar",
+  "email": "rajesh.kumar@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd00"
+  },
+  "specialization": "Dermatologist",
+  "experience": 10,
+  "qualifications": [
+    "MBBS",
+    "MD - Dermatology"
+  ],
+  "licenseNumber": "MCI-23456",
+  "officeLocation": {
+    "address": "456 Skin Clinic, Karol Bagh",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110005"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543211",
+  "bio": "Specialized in cosmetic dermatology and skin disorders with a focus on holistic skin health.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1200,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Maulana Azad Medical College",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd01"
+      }
+    },
+    {
+      "degree": "MD - Dermatology",
+      "institution": "Lady Hardinge Medical College",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd02"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Dermatologist",
+      "issuingOrganization": "Indian Association of Dermatologists",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd03"
+      }
+    },
+    {
+      "name": "Advanced Cosmetic Procedures",
+      "issuingOrganization": "American Academy of Dermatology",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd04"
+      }
+    }
+  ],
+  "name": "Dr. Priya Sharma",
+  "email": "priya.sharma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd05"
+  },
+  "specialization": "Orthopedic Surgeon",
+  "experience": 12,
+  "qualifications": [
+    "MBBS",
+    "MS - Orthopedics"
+  ],
+  "licenseNumber": "MCI-34567",
+  "officeLocation": {
+    "address": "789 Bone & Joint Hospital, South Extension",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110049"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543212",
+  "bio": "Specializing in joint replacements and sports injuries with a minimally invasive approach.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1800,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "KEM Hospital Mumbai",
+      "year": 2003,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd06"
+      }
+    },
+    {
+      "degree": "MS - Orthopedics",
+      "institution": "AIIMS Delhi",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd07"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Joint Replacement",
+      "issuingOrganization": "Royal College of Surgeons",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd08"
+      }
+    },
+    {
+      "name": "Sports Medicine Certification",
+      "issuingOrganization": "International Society of Arthroscopy",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd09"
+      }
+    }
+  ],
+  "name": "Dr. Amit Patel",
+  "email": "amit.patel@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd0a"
+  },
+  "specialization": "Pediatrician",
+  "experience": 8,
+  "qualifications": [
+    "MBBS",
+    "MD - Pediatrics"
+  ],
+  "licenseNumber": "MCI-45678",
+  "officeLocation": {
+    "address": "234 Child Care Center, Civil Lines",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110054"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "16:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "13:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543213",
+  "bio": "Dedicated to providing comprehensive pediatric care with a focus on developmental health.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1000,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Grant Medical College Mumbai",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd0b"
+      }
+    },
+    {
+      "degree": "MD - Pediatrics",
+      "institution": "JIPMER Puducherry",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd0c"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Pediatric Advanced Life Support",
+      "issuingOrganization": "American Academy of Pediatrics",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd0d"
+      }
+    },
+    {
+      "name": "Child Development Specialist",
+      "issuingOrganization": "Indian Academy of Pediatrics",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd0e"
+      }
+    }
+  ],
+  "name": "Dr. Sunita Gupta",
+  "email": "sunita.gupta@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd0f"
+  },
+  "specialization": "Neurologist",
+  "experience": 14,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Neurology"
+  ],
+  "licenseNumber": "MCI-56789",
+  "officeLocation": {
+    "address": "567 Brain & Nerve Clinic, Rajouri Garden",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110027"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543214",
+  "bio": "Expert in neurological disorders with special interest in stroke management and neurorehabilitation.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2000,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Christian Medical College Vellore",
+      "year": 2001,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd10"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "PGIMER Chandigarh",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd11"
+      }
+    },
+    {
+      "degree": "DM - Neurology",
+      "institution": "NIMHANS Bangalore",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd12"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Stroke Medicine",
+      "issuingOrganization": "World Stroke Organization",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd13"
+      }
+    },
+    {
+      "name": "Certification in Neurorehabilitation",
+      "issuingOrganization": "International Neurological Society",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd14"
+      }
+    }
+  ],
+  "name": "Dr. Vikram Singh",
+  "email": "vikram.singh@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd15"
+  },
+  "specialization": "Gynecologist",
+  "experience": 11,
+  "qualifications": [
+    "MBBS",
+    "MS - Obstetrics & Gynecology"
+  ],
+  "licenseNumber": "MCI-67890",
+  "officeLocation": {
+    "address": "890 Women's Health Center, Sector 18",
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "zipCode": "201301"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543215",
+  "bio": "Dedicated to women's health with expertise in high-risk pregnancies and gynecological surgeries.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Tamil"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1500,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Madras Medical College",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd16"
+      }
+    },
+    {
+      "degree": "MS - Obstetrics & Gynecology",
+      "institution": "JIPMER Puducherry",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd17"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Reproductive Medicine",
+      "issuingOrganization": "Federation of Obstetric and Gynecological Societies of India",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd18"
+      }
+    },
+    {
+      "name": "Certification in Laparoscopic Surgery",
+      "issuingOrganization": "World Association of Laparoscopic Surgeons",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd19"
+      }
+    }
+  ],
+  "name": "Dr. Meera Reddy",
+  "email": "meera.reddy@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd1a"
+  },
+  "specialization": "Cardiologist",
+  "experience": 16,
+  "qualifications": [
+    "MBBS",
+    "MD - Cardiology",
+    "DNB - Cardiology"
+  ],
+  "licenseNumber": "MCI-78901",
+  "officeLocation": {
+    "address": "321 Heart Institute, Nehru Place",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110019"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543216",
+  "bio": "Specialized in interventional cardiology with extensive experience in complex cardiac procedures.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2000,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 1998,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd1b"
+      }
+    },
+    {
+      "degree": "MD - Cardiology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2002,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd1c"
+      }
+    },
+    {
+      "degree": "DNB - Cardiology",
+      "institution": "National Board of Examinations",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd1d"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Interventional Cardiology",
+      "issuingOrganization": "American College of Cardiology",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd1e"
+      }
+    },
+    {
+      "name": "Advanced Cardiac Imaging",
+      "issuingOrganization": "European Society of Cardiology",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd1f"
+      }
+    }
+  ],
+  "name": "Dr. Arjun Malhotra",
+  "email": "arjun.malhotra@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd20"
+  },
+  "specialization": "Psychiatrist",
+  "experience": 9,
+  "qualifications": [
+    "MBBS",
+    "MD - Psychiatry"
+  ],
+  "licenseNumber": "MCI-89012",
+  "officeLocation": {
+    "address": "654 Mind Wellness Clinic, Janakpuri",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110058"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543217",
+  "bio": "Compassionate psychiatrist specializing in mood disorders, anxiety, and stress management.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Urdu"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1800,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Lady Hardinge Medical College",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd21"
+      }
+    },
+    {
+      "degree": "MD - Psychiatry",
+      "institution": "NIMHANS Bangalore",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd22"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cognitive Behavioral Therapy",
+      "issuingOrganization": "Beck Institute for Cognitive Behavior Therapy",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd23"
+      }
+    },
+    {
+      "name": "Certification in Addiction Psychiatry",
+      "issuingOrganization": "Indian Psychiatric Society",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd24"
+      }
+    }
+  ],
+  "name": "Dr. Neha Kapoor",
+  "email": "neha.kapoor@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.168Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd25"
+  },
+  "specialization": "Pediatrician",
+  "experience": 10,
+  "qualifications": [
+    "MBBS",
+    "MD - Pediatrics"
+  ],
+  "licenseNumber": "MCI-90123",
+  "officeLocation": {
+    "address": "123 Child Care Center, Mayur Vihar Phase 1",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110091"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543218",
+  "bio": "Dedicated pediatrician with expertise in childhood development and preventive care.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1200,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Maulana Azad Medical College",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd26"
+      }
+    },
+    {
+      "degree": "MD - Pediatrics",
+      "institution": "AIIMS Delhi",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd27"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Pediatric Advanced Life Support",
+      "issuingOrganization": "American Heart Association",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd28"
+      }
+    },
+    {
+      "name": "Child Development Specialist",
+      "issuingOrganization": "Indian Academy of Pediatrics",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd29"
+      }
+    }
+  ],
+  "name": "Dr. Ananya Verma",
+  "email": "ananya.verma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd2a"
+  },
+  "specialization": "Orthopedic Surgeon",
+  "experience": 15,
+  "qualifications": [
+    "MBBS",
+    "MS - Orthopedics"
+  ],
+  "licenseNumber": "MCI-90124",
+  "officeLocation": {
+    "address": "456 Bone & Joint Clinic, Laxmi Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543219",
+  "bio": "Experienced orthopedic surgeon specializing in joint replacements and sports injuries.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1800,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2001,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd2b"
+      }
+    },
+    {
+      "degree": "MS - Orthopedics",
+      "institution": "PGIMER Chandigarh",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd2c"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Joint Replacement",
+      "issuingOrganization": "Royal College of Surgeons",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd2d"
+      }
+    },
+    {
+      "name": "Sports Medicine Certification",
+      "issuingOrganization": "International Society of Arthroscopy",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd2e"
+      }
+    }
+  ],
+  "name": "Dr. Rahul Mehta",
+  "email": "rahul.mehta@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd2f"
+  },
+  "specialization": "Gynecologist",
+  "experience": 12,
+  "qualifications": [
+    "MBBS",
+    "MS - Obstetrics & Gynecology"
+  ],
+  "licenseNumber": "MCI-90125",
+  "officeLocation": {
+    "address": "789 Women's Health Center, Preet Vihar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543220",
+  "bio": "Compassionate gynecologist specializing in women's health and reproductive medicine.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1500,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Lady Hardinge Medical College",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd30"
+      }
+    },
+    {
+      "degree": "MS - Obstetrics & Gynecology",
+      "institution": "AIIMS Delhi",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd31"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Reproductive Medicine",
+      "issuingOrganization": "Federation of Obstetric and Gynecological Societies of India",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd32"
+      }
+    },
+    {
+      "name": "Certification in Laparoscopic Surgery",
+      "issuingOrganization": "World Association of Laparoscopic Surgeons",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd33"
+      }
+    }
+  ],
+  "name": "Dr. Kavita Sharma",
+  "email": "kavita.sharma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.169Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd34"
+  },
+  "specialization": "Dermatologist",
+  "experience": 8,
+  "qualifications": [
+    "MBBS",
+    "MD - Dermatology"
+  ],
+  "licenseNumber": "MCI-90126",
+  "officeLocation": {
+    "address": "101 Skin Care Clinic, Mayur Vihar Phase 2",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110091"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543221",
+  "bio": "Skilled dermatologist specializing in cosmetic dermatology and skin disorders.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1300,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Grant Medical College Mumbai",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd35"
+      }
+    },
+    {
+      "degree": "MD - Dermatology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd36"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certified Dermatologist",
+      "issuingOrganization": "Indian Association of Dermatologists",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd37"
+      }
+    },
+    {
+      "name": "Advanced Cosmetic Procedures",
+      "issuingOrganization": "American Academy of Dermatology",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd38"
+      }
+    }
+  ],
+  "name": "Dr. Vivek Joshi",
+  "email": "vivek.joshi@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd39"
+  },
+  "specialization": "Cardiologist",
+  "experience": 18,
+  "qualifications": [
+    "MBBS",
+    "MD - Cardiology",
+    "DM - Cardiology"
+  ],
+  "licenseNumber": "MCI-90127",
+  "officeLocation": {
+    "address": "202 Heart Care Center, Patparganj",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543222",
+  "bio": "Renowned cardiologist with expertise in interventional cardiology and heart disease management.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2200,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 1997,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd3a"
+      }
+    },
+    {
+      "degree": "MD - Cardiology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2001,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd3b"
+      }
+    },
+    {
+      "degree": "DM - Cardiology",
+      "institution": "SGPGI Lucknow",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd3c"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Interventional Cardiology",
+      "issuingOrganization": "American College of Cardiology",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd3d"
+      }
+    },
+    {
+      "name": "Advanced Cardiac Imaging",
+      "issuingOrganization": "European Society of Cardiology",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd3e"
+      }
+    }
+  ],
+  "name": "Dr. Sanjay Gupta",
+  "email": "sanjay.gupta@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd3f"
+  },
+  "specialization": "Neurologist",
+  "experience": 11,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Neurology"
+  ],
+  "licenseNumber": "MCI-90128",
+  "officeLocation": {
+    "address": "303 Brain & Nerve Center, Vasundhara Enclave",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110096"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543223",
+  "bio": "Specialized neurologist focusing on stroke management and neurodegenerative disorders.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1900,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "PGIMER Chandigarh",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd40"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd41"
+      }
+    },
+    {
+      "degree": "DM - Neurology",
+      "institution": "NIMHANS Bangalore",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd42"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Stroke Medicine",
+      "issuingOrganization": "World Stroke Organization",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd43"
+      }
+    },
+    {
+      "name": "Certification in Neurorehabilitation",
+      "issuingOrganization": "International Neurological Society",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd44"
+      }
+    }
+  ],
+  "name": "Dr. Neha Singh",
+  "email": "neha.singh@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.170Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd45"
+  },
+  "specialization": "Psychiatrist",
+  "experience": 9,
+  "qualifications": [
+    "MBBS",
+    "MD - Psychiatry"
+  ],
+  "licenseNumber": "MCI-90129",
+  "officeLocation": {
+    "address": "404 Mind Wellness Clinic, Krishna Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110051"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543224",
+  "bio": "Compassionate psychiatrist specializing in mood disorders, anxiety, and stress management.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1700,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Maulana Azad Medical College",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd46"
+      }
+    },
+    {
+      "degree": "MD - Psychiatry",
+      "institution": "NIMHANS Bangalore",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd47"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Cognitive Behavioral Therapy",
+      "issuingOrganization": "Beck Institute for Cognitive Behavior Therapy",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd48"
+      }
+    },
+    {
+      "name": "Certification in Addiction Psychiatry",
+      "issuingOrganization": "Indian Psychiatric Society",
+      "year": 2017,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd49"
+      }
+    }
+  ],
+  "name": "Dr. Rajat Khanna",
+  "email": "rajat.khanna@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd4a"
+  },
+  "specialization": "Endocrinologist",
+  "experience": 10,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Endocrinology"
+  ],
+  "licenseNumber": "MCI-90130",
+  "officeLocation": {
+    "address": "505 Diabetes & Hormone Center, Vivek Vihar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110095"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543225",
+  "bio": "Specialized in diabetes management, thyroid disorders, and hormonal imbalances.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1800,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "KEM Hospital Mumbai",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd4b"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd4c"
+      }
+    },
+    {
+      "degree": "DM - Endocrinology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd4d"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Diabetes Management",
+      "issuingOrganization": "Research Society for the Study of Diabetes in India",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd4e"
+      }
+    },
+    {
+      "name": "Advanced Endocrinology Certification",
+      "issuingOrganization": "Endocrine Society",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd4f"
+      }
+    }
+  ],
+  "name": "Dr. Pooja Agarwal",
+  "email": "pooja.agarwal@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd50"
+  },
+  "specialization": "Pulmonologist",
+  "experience": 14,
+  "qualifications": [
+    "MBBS",
+    "MD - Pulmonary Medicine"
+  ],
+  "licenseNumber": "MCI-90131",
+  "officeLocation": {
+    "address": "606 Respiratory Care Center, Shahdara",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110032"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543226",
+  "bio": "Expert in respiratory disorders, sleep apnea, and pulmonary rehabilitation.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1600,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2002,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd51"
+      }
+    },
+    {
+      "degree": "MD - Pulmonary Medicine",
+      "institution": "PGIMER Chandigarh",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd52"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Interventional Pulmonology",
+      "issuingOrganization": "American College of Chest Physicians",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd53"
+      }
+    },
+    {
+      "name": "Sleep Medicine Certification",
+      "issuingOrganization": "World Association of Sleep Medicine",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd54"
+      }
+    }
+  ],
+  "name": "Dr. Alok Mishra",
+  "email": "alok.mishra@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd55"
+  },
+  "specialization": "Ophthalmologist",
+  "experience": 12,
+  "qualifications": [
+    "MBBS",
+    "MS - Ophthalmology"
+  ],
+  "licenseNumber": "MCI-90132",
+  "officeLocation": {
+    "address": "707 Eye Care Center, Mayur Vihar Phase 3",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110096"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543227",
+  "bio": "Specialized in cataract surgery, glaucoma management, and refractive errors.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1400,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Lady Hardinge Medical College",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd56"
+      }
+    },
+    {
+      "degree": "MS - Ophthalmology",
+      "institution": "AIIMS Delhi",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd57"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Cornea and Refractive Surgery",
+      "issuingOrganization": "All India Ophthalmological Society",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd58"
+      }
+    },
+    {
+      "name": "Certification in Glaucoma Management",
+      "issuingOrganization": "International Council of Ophthalmology",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd59"
+      }
+    }
+  ],
+  "name": "Dr. Ritu Saxena",
+  "email": "ritu.saxena@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd5a"
+  },
+  "specialization": "Gastroenterologist",
+  "experience": 15,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Gastroenterology"
+  ],
+  "licenseNumber": "MCI-90133",
+  "officeLocation": {
+    "address": "808 Digestive Health Clinic, Dilshad Garden",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110095"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543228",
+  "bio": "Expert in digestive disorders, liver diseases, and advanced endoscopic procedures.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2000,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2000,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd5b"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "PGIMER Chandigarh",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd5c"
+      }
+    },
+    {
+      "degree": "DM - Gastroenterology",
+      "institution": "SGPGI Lucknow",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd5d"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Advanced Endoscopy",
+      "issuingOrganization": "American Society for Gastrointestinal Endoscopy",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd5e"
+      }
+    },
+    {
+      "name": "Certification in Hepatology",
+      "issuingOrganization": "International Association for the Study of the Liver",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd5f"
+      }
+    }
+  ],
+  "name": "Dr. Deepak Verma",
+  "email": "deepak.verma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd60"
+  },
+  "specialization": "Nephrologist",
+  "experience": 11,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Nephrology"
+  ],
+  "licenseNumber": "MCI-90134",
+  "officeLocation": {
+    "address": "909 Kidney Care Center, Anand Vihar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543229",
+  "bio": "Specialized in kidney diseases, dialysis management, and transplant medicine.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1900,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Seth GS Medical College Mumbai",
+      "year": 2004,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd61"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd62"
+      }
+    },
+    {
+      "degree": "DM - Nephrology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd63"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Transplant Nephrology",
+      "issuingOrganization": "American Society of Nephrology",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd64"
+      }
+    },
+    {
+      "name": "Certification in Dialysis Management",
+      "issuingOrganization": "International Society of Nephrology",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd65"
+      }
+    }
+  ],
+  "name": "Dr. Anjali Desai",
+  "email": "anjali.desai@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.172Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd66"
+  },
+  "specialization": "ENT Specialist",
+  "experience": 9,
+  "qualifications": [
+    "MBBS",
+    "MS - ENT"
+  ],
+  "licenseNumber": "MCI-90135",
+  "officeLocation": {
+    "address": "111 ENT Care Center, Karkardooma",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543230",
+  "bio": "Expert in ear, nose, and throat disorders with special interest in sinus surgery.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1500,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Maulana Azad Medical College",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd67"
+      }
+    },
+    {
+      "degree": "MS - ENT",
+      "institution": "AIIMS Delhi",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd68"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Rhinology",
+      "issuingOrganization": "Association of Otolaryngologists of India",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd69"
+      }
+    },
+    {
+      "name": "Certification in Sleep Medicine",
+      "issuingOrganization": "International Federation of Otorhinolaryngological Societies",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd6a"
+      }
+    }
+  ],
+  "name": "Dr. Manish Arora",
+  "email": "manish.arora@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd6b"
+  },
+  "specialization": "Dentist",
+  "experience": 8,
+  "qualifications": [
+    "BDS",
+    "MDS - Orthodontics"
+  ],
+  "licenseNumber": "MCI-90136",
+  "officeLocation": {
+    "address": "222 Dental Care Center, Surajmal Vihar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543231",
+  "bio": "Specialized in orthodontics, cosmetic dentistry, and pediatric dental care.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Bengali"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1200,
+  "education": [
+    {
+      "degree": "BDS",
+      "institution": "Maulana Azad Institute of Dental Sciences",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd6c"
+      }
+    },
+    {
+      "degree": "MDS - Orthodontics",
+      "institution": "King George's Medical University",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd6d"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Implant Dentistry",
+      "issuingOrganization": "Indian Dental Association",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd6e"
+      }
+    },
+    {
+      "name": "Certification in Cosmetic Dentistry",
+      "issuingOrganization": "Academy of Cosmetic Dentistry",
+      "year": 2017,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd6f"
+      }
+    }
+  ],
+  "name": "Dr. Shikha Malhotra",
+  "email": "shikha.malhotra@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd70"
+  },
+  "specialization": "Urologist",
+  "experience": 13,
+  "qualifications": [
+    "MBBS",
+    "MS - General Surgery",
+    "MCh - Urology"
+  ],
+  "licenseNumber": "MCI-90137",
+  "officeLocation": {
+    "address": "333 Urology Center, Geeta Colony",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110031"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543232",
+  "bio": "Expert in urological disorders, kidney stones, and minimally invasive urological surgeries.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1800,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2002,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd71"
+      }
+    },
+    {
+      "degree": "MS - General Surgery",
+      "institution": "PGIMER Chandigarh",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd72"
+      }
+    },
+    {
+      "degree": "MCh - Urology",
+      "institution": "SGPGI Lucknow",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd73"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Endourology",
+      "issuingOrganization": "Urological Society of India",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd74"
+      }
+    },
+    {
+      "name": "Certification in Robotic Surgery",
+      "issuingOrganization": "International Society of Urology",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd75"
+      }
+    }
+  ],
+  "name": "Dr. Rohit Kapoor",
+  "email": "rohit.kapoor@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd76"
+  },
+  "specialization": "Rheumatologist",
+  "experience": 10,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Rheumatology"
+  ],
+  "licenseNumber": "MCI-90138",
+  "officeLocation": {
+    "address": "444 Arthritis Care Center, Yamuna Vihar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110053"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543233",
+  "bio": "Specialized in autoimmune disorders, arthritis, and musculoskeletal conditions.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1700,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Lady Hardinge Medical College",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd77"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2010,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd78"
+      }
+    },
+    {
+      "degree": "DM - Rheumatology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd79"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Clinical Immunology",
+      "issuingOrganization": "Indian Rheumatology Association",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd7a"
+      }
+    },
+    {
+      "name": "Certification in Musculoskeletal Ultrasound",
+      "issuingOrganization": "International Society for Clinical Densitometry",
+      "year": 2017,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd7b"
+      }
+    }
+  ],
+  "name": "Dr. Preeti Chadha",
+  "email": "preeti.chadha@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd7c"
+  },
+  "specialization": "Oncologist",
+  "experience": 16,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Medical Oncology"
+  ],
+  "licenseNumber": "MCI-90139",
+  "officeLocation": {
+    "address": "555 Cancer Care Center, Shastri Park",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110053"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543234",
+  "bio": "Expert in cancer diagnosis, treatment, and palliative care with a holistic approach.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2200,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 1999,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd7d"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "PGIMER Chandigarh",
+      "year": 2003,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd7e"
+      }
+    },
+    {
+      "degree": "DM - Medical Oncology",
+      "institution": "Tata Memorial Hospital",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd7f"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Hematological Oncology",
+      "issuingOrganization": "American Society of Clinical Oncology",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd80"
+      }
+    },
+    {
+      "name": "Certification in Palliative Medicine",
+      "issuingOrganization": "Indian Association of Palliative Care",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd81"
+      }
+    }
+  ],
+  "name": "Dr. Vikas Sharma",
+  "email": "vikas.sharma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd82"
+  },
+  "specialization": "Pediatric Neurologist",
+  "experience": 12,
+  "qualifications": [
+    "MBBS",
+    "MD - Pediatrics",
+    "DM - Neurology"
+  ],
+  "licenseNumber": "MCI-90140",
+  "officeLocation": {
+    "address": "666 Child Neurology Center, Shakarpur",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543235",
+  "bio": "Specialized in pediatric neurological disorders, developmental delays, and epilepsy management.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Gujarati"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1900,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Seth GS Medical College Mumbai",
+      "year": 2003,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd83"
+      }
+    },
+    {
+      "degree": "MD - Pediatrics",
+      "institution": "AIIMS Delhi",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd84"
+      }
+    },
+    {
+      "degree": "DM - Neurology",
+      "institution": "NIMHANS Bangalore",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd85"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Pediatric Epilepsy",
+      "issuingOrganization": "International League Against Epilepsy",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd86"
+      }
+    },
+    {
+      "name": "Certification in Neurodevelopmental Disorders",
+      "issuingOrganization": "Child Neurology Society",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd87"
+      }
+    }
+  ],
+  "name": "Dr. Nandini Patel",
+  "email": "nandini.patel@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd88"
+  },
+  "specialization": "Diabetologist",
+  "experience": 14,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine"
+  ],
+  "licenseNumber": "MCI-90141",
+  "officeLocation": {
+    "address": "777 Diabetes Care Center, Mandawali",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543236",
+  "bio": "Expert in diabetes management, metabolic disorders, and preventive healthcare.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1600,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Madras Medical College",
+      "year": 2002,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd89"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2006,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd8a"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Diabetology",
+      "issuingOrganization": "Research Society for the Study of Diabetes in India",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd8b"
+      }
+    },
+    {
+      "name": "Certification in Insulin Pump Therapy",
+      "issuingOrganization": "International Diabetes Federation",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd8c"
+      }
+    }
+  ],
+  "name": "Dr. Suresh Kumar",
+  "email": "suresh.kumar@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd8d"
+  },
+  "specialization": "Geriatrician",
+  "experience": 11,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "Fellowship in Geriatrics"
+  ],
+  "licenseNumber": "MCI-90142",
+  "officeLocation": {
+    "address": "888 Senior Care Center, Pandav Nagar",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543237",
+  "bio": "Specialized in elderly care, age-related conditions, and maintaining quality of life in seniors.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Telugu"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1500,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Osmania Medical College",
+      "year": 2005,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd8e"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2009,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd8f"
+      }
+    },
+    {
+      "degree": "Fellowship in Geriatrics",
+      "institution": "All India Institute of Medical Sciences",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd90"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification in Palliative Care",
+      "issuingOrganization": "Indian Association of Palliative Care",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd91"
+      }
+    },
+    {
+      "name": "Geriatric Mental Health Certification",
+      "issuingOrganization": "International Psychogeriatric Association",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd92"
+      }
+    }
+  ],
+  "name": "Dr. Meenakshi Reddy",
+  "email": "meenakshi.reddy@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd93"
+  },
+  "specialization": "Hematologist",
+  "experience": 13,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "DM - Clinical Hematology"
+  ],
+  "licenseNumber": "MCI-90143",
+  "officeLocation": {
+    "address": "999 Blood Disorders Clinic, Kondli",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110096"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "tuesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "wednesday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "thursday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "friday": {
+      "start": "10:00",
+      "end": "18:00"
+    },
+    "saturday": {
+      "start": "11:00",
+      "end": "15:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543238",
+  "bio": "Expert in blood disorders, leukemia, anemia, and stem cell transplantation.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 2100,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "AIIMS Delhi",
+      "year": 2003,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd94"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "PGIMER Chandigarh",
+      "year": 2007,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd95"
+      }
+    },
+    {
+      "degree": "DM - Clinical Hematology",
+      "institution": "Christian Medical College Vellore",
+      "year": 2011,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd96"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Fellowship in Bone Marrow Transplantation",
+      "issuingOrganization": "American Society of Hematology",
+      "year": 2013,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd97"
+      }
+    },
+    {
+      "name": "Certification in Hemato-Oncology",
+      "issuingOrganization": "International Society of Hematology",
+      "year": 2015,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd98"
+      }
+    }
+  ],
+  "name": "Dr. Arun Mathur",
+  "email": "arun.mathur@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f2083f09495e38b023cd99"
+  },
+  "specialization": "Allergist",
+  "experience": 9,
+  "qualifications": [
+    "MBBS",
+    "MD - Medicine",
+    "Fellowship in Allergy & Immunology"
+  ],
+  "licenseNumber": "MCI-90144",
+  "officeLocation": {
+    "address": "123 Allergy Care Center, Mayur Vihar Phase 1",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "zipCode": "110091"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "tuesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "wednesday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "thursday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "friday": {
+      "start": "09:30",
+      "end": "17:30"
+    },
+    "saturday": {
+      "start": "10:00",
+      "end": "14:00"
+    },
+    "sunday": {
+      "start": "",
+      "end": ""
+    }
+  },
+  "phoneNumber": "+91-9876543239",
+  "bio": "Specialized in allergies, asthma, immunodeficiency disorders, and immunotherapy.",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1600,
+  "education": [
+    {
+      "degree": "MBBS",
+      "institution": "Grant Medical College Mumbai",
+      "year": 2008,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd9a"
+      }
+    },
+    {
+      "degree": "MD - Medicine",
+      "institution": "AIIMS Delhi",
+      "year": 2012,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd9b"
+      }
+    },
+    {
+      "degree": "Fellowship in Allergy & Immunology",
+      "institution": "PGIMER Chandigarh",
+      "year": 2014,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd9c"
+      }
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Certification in Immunotherapy",
+      "issuingOrganization": "World Allergy Organization",
+      "year": 2016,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd9d"
+      }
+    },
+    {
+      "name": "Advanced Asthma Management",
+      "issuingOrganization": "Global Initiative for Asthma",
+      "year": 2018,
+      "_id": {
+        "$oid": "67f2083f09495e38b023cd9e"
+      }
+    }
+  ],
+  "name": "Dr. Jyoti Sharma",
+  "email": "jyoti.sharma@example.com",
+  "password": "password123",
+  "role": "Doctor",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2025-04-06T04:51:11.175Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f22609642c5aa612ca592e"
+  },
+  "specialization": "Cardiologist",
+  "experience": 4,
+  "qualifications": [
+    "MMBS AIMS"
+  ],
+  "licenseNumber": "MCI 123456",
+  "officeLocation": {
+    "address": "somewhere",
+    "city": "someplace",
+    "state": "something",
+    "zipCode": "110092"
+  },
+  "workingHours": {
+    "monday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "tuesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "wednesday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "thursday": {
+      "start": "09:00",
+      "end": "17:00"
+    },
+    "friday": {
+      "start": "09:00",
+      "end": "17:00"
+    }
+  },
+  "phoneNumber": "9773531802",
+  "bio": "just doctor",
+  "acceptingNewPatients": true,
+  "languages": [
+    "English",
+    "Hindi"
+  ],
+  "ratings": {
+    "average": 0,
+    "count": 0
+  },
+  "consultationFee": 1890,
+  "name": "a doctor",
+  "email": "docto@gmail.com",
+  "password": "$2a$10$11/vhaLh7wEpd7aGhfUtDOxvaoH7xCoGK2GDSEJA3zaySzgx8AJvC",
+  "role": "Doctor",
+  "reviews": [],
+  "education": [],
+  "certifications": [],
+  "createdAt": {
+    "$date": "2025-04-06T06:58:17.788Z"
+  },
+  "__v": 0
+}]

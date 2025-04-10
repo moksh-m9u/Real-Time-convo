@@ -7,6 +7,7 @@ co = cohere.ClientV2("1t6dVGVJBcDYPn3ai4brm5G5K7aFWvxuBZ9M0CVG")
 preamble = """
 You are a Decision-Making Model for an AI Doctor. Decide whether a query is a symptom description or requires image analysis.
 -> Respond with 'symptom (query)' for text/voice-based symptom descriptions (e.g., 'I have a cough' -> 'symptom I have a cough').
+-> IMPORTANT: If the message contains a greeting like 'Hi doctor' AND mentions ANY symptoms like fever, cough, pain, etc., ALWAYS classify it as 'symptom'.
 -> Respond with 'vision (query)' if the query involves an image (e.g., 'Analyze this blister' -> 'vision Analyze this blister').
 -> Respond with 'exit' if the user says goodbye or wants to end the conversation (e.g., 'bye' -> 'exit').
 -> Respond with 'symptom (query)' for any unclear or unclassified query.
